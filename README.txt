@@ -1,13 +1,14 @@
         
 
-        2026-10-15 21:10                     CONTENTS                     Page 1
+        2026-10-25 19:20                     CONTENTS                     Page 1
 
 
         EXERCISES and TESTS                                PROJECTS                     
-        examples/01-box:                                                                
-        box.ps                                                                          
-        examples/02-box-filled:                                                         
-        bf.ps                                                                           
-        examples/03-font:                                                               
-        font.ps                                                                         
+        examples/04-box:                                                                
+        grid.pdf                                                                        
+        grid.ps                                                                         
+        examples/05-asintote:                                                           
+        grid.pdf                                                                        
+        grid.ps                                                                         
+        examples/06-factorial:                                                          
 
