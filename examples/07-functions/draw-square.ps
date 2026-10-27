@@ -1,0 +1,18 @@
+
+72 72 scale
+
+1 10 div setlinewidth
+
+/draw-rectangle {
+	/h exch def
+	/w exch def
+	newpath
+	0 0 moveto
+	w 0 rlineto
+	0 h rlineto
+	w neg 0 rlineto
+	0 h neg rlineto
+	stroke
+} def
+
+2 3 draw-rectangle
