@@ -1,6 +1,6 @@
         
 
-        2026-10-31 13:15                     CONTENTS                     Page 1
+        2026-10-31 13:55                     CONTENTS                     Page 1
 
 
         EXERCISES and TESTS                                PROJECTS                     
@@ -35,9 +35,12 @@
         examples/08-elegancy-in-functions:            arrow.pdf                         
         fun.log                                       arrow.ps                          
         fun.pdf                                                                         
-        fun.ps                                                                          
-        examples/09-sqrt:                                                               
-        triangle.log                                                                    
-        triangle.pdf                                                                    
-        triangle.ps                                                                     
+        fun.ps                                        exercises/07:                     
+                                                      cube.log                          
+        examples/09-sqrt:                             cube.pdf                          
+        triangle.log                                  cube.ps                           
+        triangle.pdf                                  tetrahedron.pdf                   
+        triangle.ps                                   tetrahedron.ps                    
+                                                      exercises/09:                     
+                                                      computations.ps                   
 

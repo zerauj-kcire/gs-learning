@@ -1,0 +1,29 @@
+
+<< /PageSize [ 50 50 ] >> setpagedevice
+
+/draw-square {
+	/c exch def
+	newpath
+	0 0 moveto
+	0 c rlineto
+	c 0 rlineto
+	0 c neg rlineto
+	c neg 0 rlineto
+	closepath
+	stroke
+} def
+
+1 4 div setlinewidth
+
+5 5 translate
+40 draw-square
+10 10 translate
+20 draw-square
+
+10 neg 10 neg translate
+
+newpath 0 0 moveto 10 10 rlineto closepath stroke
+newpath 0 40 moveto 10 10 neg rlineto closepath stroke
+newpath 40 40 moveto 10 neg 10 neg rlineto closepath stroke
+newpath 40 0 moveto 10 neg 10 rlineto closepath stroke
+
