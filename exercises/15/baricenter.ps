@@ -1,0 +1,54 @@
+
+<< /PageSize [ 100 62 ] >> setpagedevice
+
+/dot {
+	/x exch def
+	/y exch def
+	newpath
+	y x moveto
+	0 0 rlineto
+	stroke
+} def
+
+% points of triangle def
+/a1 2 def /a2 2 def
+/b1 90 def /b2 2 def
+/c1 30 def /c2 60 def
+
+1 setlinecap
+1 2 div setlinewidth
+
+% triangle
+newpath
+a1 a2 moveto
+b1 b2 lineto
+c1 c2 lineto
+closepath
+stroke
+
+% definition of median points
+/ac1 a1 c1 add 2 div def
+/ac2 a2 c2 add 2 div def
+/ab1 a1 b1 add 2 div def
+/ab2 a2 b2 add 2 div def
+/bc1 b1 c1 add 2 div def
+/bc2 b2 c2 add 2 div def
+
+% medians
+newpath a1 a2 moveto bc1 bc2 lineto stroke
+newpath b1 b2 moveto ac1 ac2 lineto stroke
+newpath c1 c2 moveto ab1 ab2 lineto stroke
+
+% dots
+2.5 setlinewidth
+a1 a2 dot
+b1 b2 dot
+c1 c2 dot
+ab1 ab2 dot
+bc1 bc2 dot
+ac1 ac2 dot
+
+% baricenter
+/X a1 b1 add c1 add 3 div def
+/Y a2 b2 add c2 add 3 div def
+X Y dot

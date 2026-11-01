@@ -1,46 +1,57 @@
         
 
-        2026-10-31 13:55                     CONTENTS                     Page 1
+        2026-11-01 17:08                     CONTENTS                     Page 1
 
 
         EXERCISES and TESTS                                PROJECTS                     
         examples/01-line:                             exercises/tutorial.pdf            
         l.pdf                                                                           
         l.ps                                          exercises/01:                     
-                                                      square.log                        
-        examples/02-square:                           square.pdf                        
-        s.pdf                                         square.ps                         
-        s.ps                                                                            
-                                                      exercises/02:                     
-        examples/03-rotation:                         box.eps                           
-        r.pdf                                         box.log                           
-        r.ps                                          box.pdf                           
-                                                      box.ps                            
-        examples/04-box:                                                                
-        grid.pdf                                      exercises/04:                     
-        grid.ps                                       box.log                           
-                                                      box.pdf                           
-        examples/05-asintote:                         box.ps                            
-        grid.pdf                                                                        
-        grid.ps                                       exercises/05:                     
+                                                      square.pdf                        
+        examples/02-square:                           square.ps                         
+        s.pdf                                                                           
+        s.ps                                          exercises/02:                     
                                                       box.eps                           
-        examples/06-variables:                        box-eps-converted-to.pdf          
-        vars.pdf                                      sample.aux                        
-        vars.ps                                       sample.log                        
-                                                      sample.pdf                        
-        examples/07-functions:                        sample.tex                        
-        draw-square.pdf                                                                 
-        draw-square.ps                                exercises/06:                     
-                                                      arrow.log                         
-        examples/08-elegancy-in-functions:            arrow.pdf                         
-        fun.log                                       arrow.ps                          
-        fun.pdf                                                                         
-        fun.ps                                        exercises/07:                     
-                                                      cube.log                          
-        examples/09-sqrt:                             cube.pdf                          
-        triangle.log                                  cube.ps                           
-        triangle.pdf                                  tetrahedron.pdf                   
-        triangle.ps                                   tetrahedron.ps                    
+        examples/03-rotation:                         box.log                           
+        r.pdf                                         box.pdf                           
+        r.ps                                          box.ps                            
+        examples/04-box:                              exercises/04:                     
+        grid.pdf                                      box.log                           
+        grid.ps                                       box.pdf                           
+                                                      box.ps                            
+        examples/05-asintote:                                                           
+        grid.pdf                                      exercises/05:                     
+        grid.ps                                       box.eps                           
+                                                      box-eps-converted-to.pdf          
+        examples/06-variables:                        sample.aux                        
+        vars.pdf                                      sample.log                        
+        vars.ps                                       sample.pdf                        
+                                                      sample.tex                        
+        examples/07-functions:                                                          
+        draw-square.pdf                               exercises/06:                     
+        draw-square.ps                                arrow.log                         
+                                                      arrow.pdf                         
+        examples/08-elegancy-in-functions:            arrow.ps                          
+        fun.log                                                                         
+        fun.pdf                                       exercises/07:                     
+        fun.ps                                        cube.log                          
+                                                      cube.pdf                          
+        examples/09-sqrt:                             cube.ps                           
+        triangle.log                                  tetrahedron.pdf                   
+        triangle.pdf                                  tetrahedron.ps                    
+        triangle.ps                                                                     
                                                       exercises/09:                     
+                                                      computations.log                  
                                                       computations.ps                   
+                                                      exercises/13:                     
+                                                      dots.pdf                          
+                                                      dots.ps                           
+                                                      exercises/15:                     
+                                                      baricenter.log                    
+                                                      baricenter.pdf                    
+                                                      baricenter.ps                     
+                                                      exercises/16:                     
+                                                      pentagon.log                      
+                                                      pentagon.pdf                      
+                                                      pentagon.ps                       
 
